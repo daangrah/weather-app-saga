@@ -4,8 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ccf35a0-5604-42c5-9c01-ff762d733cf3" name="Changes" comment="naming">
+    <list default="true" id="9ccf35a0-5604-42c5-9c01-ff762d733cf3" name="Changes" comment="1st commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HP/Desktop/weather-app",
+    "last_opened_file_path": "C:/Users/HP/Desktop/weather-app/weather-app-saga",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
@@ -69,6 +72,7 @@
       <workItem from="1677138877563" duration="736000" />
       <workItem from="1677487985627" duration="29000" />
       <workItem from="1686061463749" duration="4842000" />
+      <workItem from="1686068771412" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="first changes">
       <created>1670332161396</created>
@@ -182,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686064396672</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1st commit">
+      <created>1686068810518</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686068810519</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1st commit">
+      <created>1686068906031</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686068906031</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +227,7 @@
     <MESSAGE value="working so well 3.0" />
     <MESSAGE value="hopefully working so well 4.0" />
     <MESSAGE value="naming" />
-    <option name="LAST_COMMIT_MESSAGE" value="naming" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>
