@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.App{
+  background: #0D1117;
+  min-height: 900px;
+}
+.app_name{
+  color: #4793FF;
+}
+.header {
+  padding-top: 10px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1500px;
+}
+.app_name{
+  font-size: 30px;
+}
+.logo, .logo1{
+  margin-right: 15px;
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.this-day-container{
+  height: 300px;
+  background-color: #4f4f4f;
+  box-shadow: 2px 5px 25px -3px rgba(180, 180, 180, 0.25);
+  border-radius: 20px;
+}
+.this_day_info_container{
+  height: 300px;
+  background: #4F4F4F;
+  box-shadow: 2px 5px 25px -3px rgba(180, 180, 180, 0.25);
+  border-radius: 20px;
+}
+.this-day-tamperature{
+  color: #4793FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 85px;
+  margin: 15px auto;
+}
+.this-day-city{
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  color: #c9c8c8;
+}
+.this-day{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+.today_container{
+  max-width: 900px;
+  margin: 35px auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr 4fr;
+}
+.weather_pic{
+  width: 80px;
+}
+.round_ellipse{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+.weather_cont{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  font-size: 30px;
+  margin-top: 10px;
+  color: #c9c8c8;
+}
+.cloud_img{
+  opacity: 0.4;
+  position: absolute;
+  margin-left: 55px;
+  margin-top: 3px;
+}

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ccf35a0-5604-42c5-9c01-ff762d733cf3" name="Changes" comment="naming">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2IXLIuXSyumWttPIDofcMtgzvY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP/Desktop/weather-app",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\weather-app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ccf35a0-5604-42c5-9c01-ff762d733cf3" name="Changes" comment="" />
+      <created>1670322904445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670322904445</updated>
+      <workItem from="1670322906703" duration="13518000" />
+      <workItem from="1670580882578" duration="5668000" />
+      <workItem from="1670586682576" duration="6341000" />
+      <workItem from="1672833274185" duration="6535000" />
+      <workItem from="1675328187523" duration="10987000" />
+      <workItem from="1677138877563" duration="736000" />
+      <workItem from="1677487985627" duration="29000" />
+      <workItem from="1686061463749" duration="4842000" />
+    </task>
+    <task id="LOCAL-00001" summary="first changes">
+      <created>1670332161396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670332161396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="not working">
+      <created>1670588604005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670588604006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="working but not so well">
+      <created>1672836936790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672836936790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working so well">
+      <created>1672909644697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672909644697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="working so well 2.0">
+      <created>1677487733223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677487733223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="working so well 3.0">
+      <created>1686061581763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686061581763</updated>
+    </task>
+    <task id="LOCAL-00007" summary="working so well 3.0">
+      <created>1686062595431</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686062595431</updated>
+    </task>
+    <task id="LOCAL-00008" summary="working so well 3.0">
+      <created>1686063080148</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063080148</updated>
+    </task>
+    <task id="LOCAL-00009" summary="working so well 3.0">
+      <created>1686063090456</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063090456</updated>
+    </task>
+    <task id="LOCAL-00010" summary="working so well 3.0">
+      <created>1686063140026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063140026</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hopefully working so well 4.0">
+      <created>1686063552737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063552737</updated>
+    </task>
+    <task id="LOCAL-00012" summary="naming">
+      <created>1686063598508</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063598508</updated>
+    </task>
+    <task id="LOCAL-00013" summary="naming">
+      <created>1686063886140</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686063886140</updated>
+    </task>
+    <task id="LOCAL-00014" summary="naming">
+      <created>1686064086612</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686064086612</updated>
+    </task>
+    <task id="LOCAL-00015" summary="naming">
+      <created>1686064251527</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686064251527</updated>
+    </task>
+    <task id="LOCAL-00016" summary="naming">
+      <created>1686064396672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686064396672</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first changes" />
+    <MESSAGE value="not working" />
+    <MESSAGE value="working but not so well" />
+    <MESSAGE value="working so well" />
+    <MESSAGE value="working so well 2.0" />
+    <MESSAGE value="working so well 3.0" />
+    <MESSAGE value="hopefully working so well 4.0" />
+    <MESSAGE value="naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="naming" />
+  </component>
+</project>
