@@ -8,7 +8,6 @@ function App() {
       <Header />
       <TodayInfo />
       WEATHER-APP
-      <button>Press me</button>
     </div>
   );
 }
